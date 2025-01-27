@@ -13,6 +13,10 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 ## Project Setup
 
 ```sh
+   git clone https://github.com/your-username/tic-tac-toe.git
+```
+
+```sh
 npm install
 ```
 
