@@ -1,4 +1,4 @@
-# TicTacToe  
+# Interactive Tic-Tac-Toe Game 
 
 This is a fully interactive Tic Tac Toe Game built using Vue.js 3. The project demonstrates modern frontend development practices, including component-based architecture, props, event handling, and reactivity. It’s designed with Bootstrap 5 for responsive and visually appealing styling.    
 
