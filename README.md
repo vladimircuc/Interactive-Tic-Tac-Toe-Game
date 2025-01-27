@@ -4,9 +4,9 @@ This is a fully interactive Tic Tac Toe Game built using Vue.js 3. The project d
 
 ## Technologies Used   
  
-### Vue.js 3: For building the interactive user interface and managing state reactivity.   
-### Bootstrap 5: For responsive and modern styling.   
-### JavaScript (ES6): For handling game logic and events.   
+- Vue.js 3: For building the interactive user interface and managing state reactivity.   
+- Bootstrap 5: For responsive and modern styling.   
+- JavaScript (ES6): For handling game logic and events.   
 
 ## How It Works  
   
